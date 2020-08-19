@@ -1,4 +1,2 @@
-# MATLAB
-Dr Gareth Roberts' MATLAB Code
+# Initial page
 
-This is where I store all my EEG and MRI data analysis code, as well as some psychtoolbox experiments.
