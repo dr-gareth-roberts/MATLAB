@@ -46,5 +46,5 @@
 
 ## Project: fNIRS Operationalisation
 
-* [Untitled](project-fnirs-operationalisation/untitled.md)
+* [Specifications](project-fnirs-operationalisation/untitled.md)
 
