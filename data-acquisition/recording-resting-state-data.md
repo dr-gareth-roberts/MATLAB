@@ -1,6 +1,13 @@
-# MATLAB and Analysis Toolboxes
+---
+description: >-
+  fNIRS data is recorded while the participant is at rest, this can be performed
+  with the eyes open or closed, but ideally a procedure that implements several
+  minutes of both eyes open and closed is
+---
 
-## Getting a copy of MATLAB
+# Recording Resting State Data
+
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 

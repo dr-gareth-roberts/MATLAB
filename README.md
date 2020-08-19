@@ -1,20 +1,20 @@
-# Home Page
+# Introduction
 
-## 15.0.0 - 2042-12-03
+## 
 
-### Fixed
+## 1. fNIRS Equipment
 
-* Removed humans, they weren't doing fine with animals.
+{% tabs %}
+{% tab title="First Tab" %}
 
-### Changed
+{% endtab %}
 
-* Animals are now super cute, all of them.
+{% tab title="Second Tab" %}
 
-## 14.0.0 - 2042-10-06
+{% endtab %}
+{% endtabs %}
 
-### Added
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
 
 
 
