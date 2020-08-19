@@ -2,8 +2,10 @@
 
 * [Introduction](README.md)
 * [Links to Important Information](links-to-important-information/README.md)
-  * [FAQ](links-to-important-information/faq.md)
   * [Diagnostics Report](links-to-important-information/diagnostics-report.md)
+  * [FAQ](links-to-important-information/faq.md)
+  * [Links to Gowerlabs & related groups](links-to-important-information/links/README.md)
+    * [Gowerlabs](https://www.gowerlabs.co.uk/lumo)
 
 ## fNIRS Equipment
 
@@ -41,6 +43,8 @@
 
 * [Synchronising the PSG Sleep Equipment with fNIRS System](synchronising-psg-equipment-with-fnirs-system.md)
 * [Synchronisation of PSG and fNIRS Signals During Events of Interest \(e.g., Apnoeas\)](synchronisation-of-psg-and-fnirs-signals.md)
-* [Links](links.md)
-* [Gowerlabs](https://www.gowerlabs.co.uk/lumo)
+
+## Project: fNIRS Operationalisation
+
+* [Untitled](project-fnirs-operationalisation/untitled.md)
 
