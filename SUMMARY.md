@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Links to Important Information](links-to-important-information.md)
 
 ## fNIRS Equipment
 
