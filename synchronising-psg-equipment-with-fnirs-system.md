@@ -1,2 +1,2 @@
-# Synchronising PSG Equipment with fNIRS System
+# Synchronising PSG Sleep Equipment with fNIRS System
 

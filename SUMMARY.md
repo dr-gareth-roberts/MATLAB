@@ -4,9 +4,13 @@
 
 ## fNIRS Equipment
 
-* [Hardware](fnirs-equipment/hardware/README.md)
+* [fNIRS Background & Theory](fnirs-equipment/fnirs-background-and-theory/README.md)
+  * [Continuous Wave fNIRS](fnirs-equipment/fnirs-background-and-theory/continuous-wave-fnirs.md)
+  * [Diffuse Optical Tomography \(DOT\)-related fNIRS](fnirs-equipment/fnirs-background-and-theory/diffuse-optical-tomography-dot-related-fnirs.md)
+* [System Hardware](fnirs-equipment/hardware/README.md)
   * [System Components](fnirs-equipment/hardware/system-components.md)
   * [LUMO Manual](fnirs-equipment/hardware/lumo-manual.md)
+  * [DOT-Analysis with LUMO](fnirs-equipment/hardware/dot-analysis-with-lumo.md)
 
 ## Data Acquisition
 
@@ -22,6 +26,7 @@
 * [MATLAB and Analysis Toolboxes](data-analysis/setting-up-matlab-and-analysis-toolboxes/README.md)
   * [Homer2](data-analysis/setting-up-matlab-and-analysis-toolboxes/homer2.md)
   * [Homer3](data-analysis/setting-up-matlab-and-analysis-toolboxes/homer3.md)
+  * [Other Toolboxes](data-analysis/setting-up-matlab-and-analysis-toolboxes/other-toolboxes.md)
 
 ## Data Synchronisation
 
@@ -31,5 +36,6 @@
 
 ---
 
-* [Synchronising PSG Equipment with fNIRS System](synchronising-psg-equipment-with-fnirs-system.md)
+* [Synchronising PSG Sleep Equipment with fNIRS System](synchronising-psg-equipment-with-fnirs-system.md)
+* [Synchronisation of PSG and fNIRS Signals](synchronisation-of-psg-and-fnirs-signals.md)
 
