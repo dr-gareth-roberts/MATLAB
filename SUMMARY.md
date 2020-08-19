@@ -41,5 +41,6 @@
 
 * [Synchronising the PSG Sleep Equipment with fNIRS System](synchronising-psg-equipment-with-fnirs-system.md)
 * [Synchronisation of PSG and fNIRS Signals During Events of Interest \(e.g., Apnoeas\)](synchronisation-of-psg-and-fnirs-signals.md)
+* [Links](links.md)
 * [Gowerlabs](https://www.gowerlabs.co.uk/lumo)
 
