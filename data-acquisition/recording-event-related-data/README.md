@@ -1,2 +1,2 @@
-# Recording Event-Related Data
+# Recording Event-Related fNIRS Data
 
